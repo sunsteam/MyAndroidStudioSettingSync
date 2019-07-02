@@ -1,0 +1,10 @@
+<templateSet group="AndroidComments">
+  <template name="classhead" value="$end$&#10;* &#10;* @author by SunYuXing on $date$." description="add a class file header" toReformat="false" toShortenFQNames="true">
+    <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="date" expression="date()" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_COMMENT" value="true" />
+      <option name="KOTLIN_COMMENT" value="true" />
+    </context>
+  </template>
+</templateSet>

@@ -1,0 +1,13 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Java">
+        <added pattern="com.comma.fit.utils.FormatUtils.formatSizedSymbolPrice(priceWithSymbol,symbolSizeRes)" />
+        <added pattern="com.comma.framework.utils.Commons.checkNotNull(object,message)" />
+      </blacklist>
+      <blacklist language="Groovy" />
+      <blacklist language="Kotlin" />
+    </blacklists>
+    <option id="SHOW_PARAMETER_TYPE_HINT" value="true" />
+  </component>
+</application>
