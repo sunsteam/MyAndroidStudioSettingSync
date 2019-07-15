@@ -5,6 +5,6 @@
     <option name="PROXY_PORT" value="1086" />
     <option name="PROXY_EXCEPTIONS" value="127.0.0.1" />
     <option name="USE_PAC_URL" value="true" />
-    <option name="PAC_URL" value="http://127.0.0.1:8090/proxy.pac" />
+    <option name="PAC_URL" value="http://127.0.0.1:1089/proxy.pac" />
   </component>
 </application>
