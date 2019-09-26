@@ -158,6 +158,10 @@
           <option name="url" value="https://github.com/sunsteam/SimpleSipDemo.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@git.likingfit.com:wuhuaihu/CommaFit.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/AndroidDemo" />
