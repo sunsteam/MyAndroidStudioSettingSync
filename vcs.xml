@@ -168,7 +168,7 @@
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/AndroidDemo" />
+    <option name="cloneParentDir" value="$USER_HOME$/AndroidDemos" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_TAG_NAMES" value="true" />
