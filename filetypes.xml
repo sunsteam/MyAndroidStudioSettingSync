@@ -1,9 +1,10 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="webp" type="Image" />
+      <mapping pattern="app info" type="PLAIN_TEXT" />
       <mapping pattern="app_database" type="PLAIN_TEXT" />
       <mapping pattern="autoGenDp" type="PLAIN_TEXT" />
-      <mapping pattern="app info" type="PLAIN_TEXT" />
       <mapping pattern="autoGen" type="PLAIN_TEXT" />
       <mapping ext="release" type="PLAIN_TEXT" />
       <mapping pattern=".gitignore_global" type="Git file" />
