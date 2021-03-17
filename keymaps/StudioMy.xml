@@ -8,6 +8,10 @@
     <keyboard-shortcut first-keystroke="shift delete" />
     <keyboard-shortcut first-keystroke="meta x" />
   </action>
+  <action id="$EditorTranslateAction">
+    <keyboard-shortcut first-keystroke="shift ctrl y" />
+    <keyboard-shortcut first-keystroke="alt i" />
+  </action>
   <action id="$Paste">
     <keyboard-shortcut first-keystroke="ctrl v" />
     <keyboard-shortcut first-keystroke="meta v" />
@@ -57,6 +61,9 @@
   </action>
   <action id="Editor Cut">
     <keyboard-shortcut first-keystroke="meta x" />
+  </action>
+  <action id="Editor EditorTranslateAction">
+    <keyboard-shortcut first-keystroke="alt i" />
   </action>
   <action id="Editor Paste">
     <keyboard-shortcut first-keystroke="ctrl v" />
@@ -132,6 +139,7 @@
   </action>
   <action id="NewElementInMenuGroup">
     <keyboard-shortcut first-keystroke="meta n" />
+    <keyboard-shortcut first-keystroke="alt n" />
   </action>
   <action id="OptimizeImports">
     <keyboard-shortcut first-keystroke="shift ctrl o" />

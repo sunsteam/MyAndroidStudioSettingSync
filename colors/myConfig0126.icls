@@ -2,9 +2,8 @@
   <option name="FONT_SCALE" value="1.0" />
   <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="14" />
-  <option name="EDITOR_FONT_NAME" value="Menlo" />
+  <option name="EDITOR_FONT_NAME" value="Consolas" />
   <option name="CONSOLE_FONT_NAME" value="Monospaced" />
-  <option name="EDITOR_QUICK_DOC_FONT_SIZE" value="MEDIUM" />
   <attributes>
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
@@ -64,6 +63,9 @@
         <option name="FOREGROUND" value="1f4f93" />
         <option name="FONT_TYPE" value="2" />
       </value>
+    </option>
+    <option name="TEXT">
+      <value />
     </option>
     <option name="XML_NS_PREFIX">
       <value>
